@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/bitemateapp/training/issues"
   },
-  "homepage": "https://github.com/bitemateapp/training#readme"
+  "homepage": "https://github.com/bitemateapp/training#readme",
+  "dependencies": {
+    "knope": "^1.1.2"
+  }
 }
